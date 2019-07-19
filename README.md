@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Ekram Hassen
 
-Track Name: 
+Track Name: DevOps 
 
-Track Description: 
+Track Description: DevOps Engineering
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
